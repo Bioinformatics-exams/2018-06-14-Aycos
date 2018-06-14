@@ -30,11 +30,11 @@ NM_005249.4:c.1200C>A a pour notation protéique au format HGVS: NM_005249.4(FOX
 (Mutalyser: https://mutalyzer.nl/name-checker?description=NM_005249.4%3Ac.1200C%3EA)
 ### Q8
 La signification de la notation dans le cas de NM_005249.4(FOXG1_i001):p.(Pro109Leu):
-NM signifie ARNm 
-005249 signifie le numéro de transcrit
-4 signifie la version du transcrit
-(FOXG1_i001) signifie le nom du gène et le numéro de l'isoforme
-p signifie la notation protéique
+NM signifie que c'est un ARNm 
+005249 signifie que c'est le numéro de transcrit
+4 signifie que c'est la version du transcrit
+(FOXG1_i001) signifie que c'est le nom du gène et le numéro de l'isoforme
+p signifie que c'est la notation protéique
 (Pro109Leu) signifie que la proline en position 109 (= la référence) est substitué par la Leucine (= le variant)
 La signification est la même pour l'autre transcrit NM_005249.4(FOXG1_i001):p.(Tyr400*)
 sauf pour (Tyr400*) qui veut dire que la Tyrosine en position 400 (= la référence) a été substitué par un codon stop * (= le variant).
@@ -51,4 +51,11 @@ car il est déjà recensé comme pathogène dans la base de donnée.
 La notation génomique du variant NM_005249.4:c.1200C>A au format HGVS est: NC_000014.8:g.29237685C>A 
 (Mutalyzer: https://mutalyzer.nl/position-converter?assembly_name_or_alias=GRCh37&description=NM_005249.4%3Ac.1200C%3EA)
 ### Q12
+La signification de la notation dans le cas : NC_000014.8:g.29237685C>A
+NC signifie Complete genomic molecules.
+000014 signifie que c'est sur le chromosome 14.
+8 signifie la version du chromosome.
+g signifie que c'est la notation génomique.
+29237685 signifie wue c'est la position génomique.
+C>A signifie que le nucléotide C (= la référence) a été substitué par le nucléotide A (= le variant)
 
