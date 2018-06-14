@@ -58,4 +58,28 @@ NC signifie Complete genomic molecules.
 g signifie que c'est la notation génomique.
 29237685 signifie wue c'est la position génomique.
 C>A signifie que le nucléotide C (= la référence) a été substitué par le nucléotide A (= le variant)
+### Q13
+Le variant NC_000014.8:g.29237685C>A n'est pas présent dans la base de données GnomAD.
+(GnomAD: http://gnomad.broadinstitute.org/variant/14-29237685-C-A)
+Le variant NC_000014.8:g.29236811C>T est présent dans la base de donnée GnomAD.
+(Mutalyzer: https://mutalyzer.nl/position-converter?assembly_name_or_alias=GRCh37&description=NM_005249.4%3Ac.326C%3ET)
+(GnomAD: http://gnomad.broadinstitute.org/variant/14-29236811-C-T)
+### Q14
+La fréquence du variant NC_000014.8:g.29236811C>T dans la population générale est 0.000. 
+
+## Exercice 2
+### Q1
+Le but est de réduire au maximum la iste des variants potentiels qui serait impliqué dans la maladie de ce fait on recherche si 
+dans les bases de donnée comme OMIM (base de donnée de maladie général) ou DDG2P gene list (base de donnée de gène qui sont reporté lié à un problème de dévellopement). Ainsi si un des variants est retrouvé dans l'une de ses bases de donnée on pourra lui attribué une plus grande attention car il aura déjà été reporté comme causal dans un problème de dévelloppement.
+### Q2
+Le système de classification est standardisé et appliqué sur les résultats des bases séquencé pour les gènes de prédisposition au cancer. Il y a 5 classses de variants basés sur leur degré de chance d'être pathogène. Chaque classe est associé a des recommandations pour la prise en charge thérapeutique selon les risques relatifs dépendant du syndrome. 
+Oui il existe d'autre système de classification des variants comme le guideline du American College of Medical Genetics and Genomics.
+### Q3
+Le NM_001190274.1 est le numéro de transcrit qui est nécessaire pour donner les coordonnées de la variation.
+Le numéro de transcrit est donné selon les normes RefSeq déteminé par HGVS qui est l'human genome variation society qui nous permet d'avoir une notation standardisée. 
+Le GRCh37/hg19 human genome assembly correspond au génome de référence qui est utilisé.
+### Q4
+La technique utilisée est le whole exome sequencing qui permet de séquencer leur exome. Donc il y a des cycles et à chaque début de cyclev il y a association des fluorochromes et la machine prend une photo, qui permet d'identifier la base. Puis il y a un lavage et des réactions chimique à la fin du cycle. Puis on recommence la même chose.
+### Q5
+Le séquençage Sanger est le gold standard est donc est plus fiable que le Whole exome sequencing, mais il prend beaucoup plus de temps. Il permet donc d'avaoir la séquence d'ADN du variant et le statut de novo en comparant avec les séquences des parents.  
 
