@@ -84,5 +84,5 @@ La technique utilisée est le whole exome sequencing qui permet de séquencer le
 Le séquençage Sanger est le gold standard est donc est plus fiable que le Whole exome sequencing, mais il prend beaucoup plus de temps. Il permet donc d'avaoir la séquence d'ADN du variant et le statut de novo en comparant avec les séquences des parents.  
 ### Q6
 Les critéres qui ont permis de les classer comme pathogénes:
-pour l'individu 1 il s'agit d'une mutation qui touche une zone d'épissage ce qui a des conséquences décrites comme univoque pour la formation d'un ARNm fonctionnel.
-pour l'individu 2 il entraîne l'apparition d'un codon stop prématuré.
+pour l'individu 1 il s'agit d'une mutation qui touche une zone d'épissage ce qui a des conséquences délétères et entraîne la  formation d'un ARNm non-fonctionnel.
+pour l'individu 2 il y aun frameshift qui entraîne l'apparition d'un codon stop prématuré.
