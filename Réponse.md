@@ -82,4 +82,7 @@ Le GRCh37/hg19 human genome assembly correspond au génome de référence qui es
 La technique utilisée est le whole exome sequencing qui permet de séquencer leur exome. Donc il y a des cycles et à chaque début de cyclev il y a association des fluorochromes et la machine prend une photo, qui permet d'identifier la base. Puis il y a un lavage et des réactions chimique à la fin du cycle. Puis on recommence la même chose.
 ### Q5
 Le séquençage Sanger est le gold standard est donc est plus fiable que le Whole exome sequencing, mais il prend beaucoup plus de temps. Il permet donc d'avaoir la séquence d'ADN du variant et le statut de novo en comparant avec les séquences des parents.  
-
+### Q6
+Les critéres qui ont permis de les classer comme pathogénes:
+pour l'individu 1 il s'agit d'une mutation qui touche une zone d'épissage ce qui a des conséquences décrites comme univoque pour la formation d'un ARNm fonctionnel.
+pour l'individu 2 il entraîne l'apparition d'un codon stop prématuré.
